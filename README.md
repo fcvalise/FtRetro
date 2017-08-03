@@ -1,6 +1,6 @@
 # FtRetro
 
-Small game made at 42 school in 2 days with C++ and Ncurse.
+Small game made at 42 school in 2015. Two days of work with C++ and Ncurse.
 
 > ```
 >    __                                                                                                        
